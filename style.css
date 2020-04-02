@@ -1,0 +1,85 @@
+body{
+    background-color:silver;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    width: 1000px;
+    margin: 0px auto;
+}
+#menu_top{
+    background-color: skyblue;
+    height: 40px;
+    width: 944px;
+}
+#menu_top ul{
+    margin: 0px;
+    padding: 0px;
+}
+#menu_top ul li {
+    list-style: none;
+    float: left;
+}
+#menu_top ul li a {
+    text-decoration: none;
+    display: block;
+    color: purple;
+    height: 40px;
+    line-height: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    padding: 0px 39.54px  0px 39.54px;
+    border-right: 1px solid whitesmoke;
+}
+#banner{
+    height: auto;
+    width: auto;
+}
+#banner img {
+    width: 943px;
+}
+#main #left{
+    width: 200px;
+    background-color :pink;
+    float: left;
+}
+#main #right {
+    width: 744px;
+    background-color: papayawhip;
+    float: left;
+    min-height: 400px;
+}
+#main #right ul li img{
+    width: 500px;
+    height: auto ;
+}
+#main #right ul li p {
+    color: purple;
+    font-size: 30px;
+}
+#main #right ul li {
+    margin: 5px;
+    border: 2px solid black;
+}
+ #fuuter {
+    background: #000;
+    width: 945px;
+    text-align: center;
+    height: 1000px;
+    color: #ffffff;
+    clear: left;
+    line-height: 60px;
+}
+#fuuter #bt_doihinh{
+    background-color: khaki;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+
+}
+#hinh.m1{
+    width: 100px;
+}
+#hinh.m2{
+    width: 120px;
+}
+#hinh.m3{
+    width: 300px;
+}
